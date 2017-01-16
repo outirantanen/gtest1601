@@ -1,0 +1,6 @@
+C:\Users\K1496\gitland2\gtest1601\gtest1601\bin\Debug\gtest1601.exe.config
+C:\Users\K1496\gitland2\gtest1601\gtest1601\bin\Debug\gtest1601.exe
+C:\Users\K1496\gitland2\gtest1601\gtest1601\bin\Debug\gtest1601.pdb
+C:\Users\K1496\gitland2\gtest1601\gtest1601\obj\Debug\gtest1601.csprojResolveAssemblyReference.cache
+C:\Users\K1496\gitland2\gtest1601\gtest1601\obj\Debug\gtest1601.exe
+C:\Users\K1496\gitland2\gtest1601\gtest1601\obj\Debug\gtest1601.pdb
